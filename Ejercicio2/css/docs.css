@@ -487,7 +487,7 @@
 }
 
 .bd-footer a:hover, .bd-footer a:focus {
-  color: #007bff;
+  color: #3967c9;
 }
 
 .bd-footer p {
@@ -1166,42 +1166,42 @@
 
 .swatch-primary {
   color: #fff;
-  background-color: #007bff;
+  background-color: #3967c9;
 }
 
 .swatch-secondary {
   color: #fff;
-  background-color: #6c757d;
+  background-color: #484868;
 }
 
 .swatch-success {
   color: #fff;
-  background-color: #28a745;
+  background-color: #3b8f3b;
 }
 
 .swatch-info {
   color: #fff;
-  background-color: #17a2b8;
+  background-color: #111111;
 }
 
 .swatch-warning {
   color: #212529;
-  background-color: #ffc107;
+  background-color: orange;
 }
 
 .swatch-danger {
   color: #fff;
-  background-color: #dc3545;
+  background-color: #ac3535;
 }
 
 .swatch-light {
   color: #212529;
-  background-color: #f8f9fa;
+  background-color: #fae1e1;
 }
 
 .swatch-dark {
   color: #fff;
-  background-color: #343a40;
+  background-color: #242020;
 }
 
 .swatch-100 {
@@ -1562,7 +1562,7 @@
 
 .anchorjs-link {
   font-weight: 400;
-  color: rgba(0, 123, 255, 0.5);
+  color: rgba(57, 103, 201, 0.5);
   -webkit-transition: color 0.15s ease-in-out, opacity 0.15s ease-in-out;
   transition: color 0.15s ease-in-out, opacity 0.15s ease-in-out;
 }
@@ -1575,7 +1575,7 @@
 }
 
 .anchorjs-link:hover {
-  color: #007bff;
+  color: #3967c9;
   text-decoration: none;
 }
 
